@@ -12,7 +12,7 @@ To use the EvilLuffy Bot, simply mention the word "meat" in a comment on the r/M
 
 ## Getting started
 
-1. Clone the repository: `git clone https://github.com/<username>/<repository-name>.git`
+1. Clone the repository: `git clone https://github.com/13x02/reddit-bot.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Create a Reddit app and obtain your client ID, client secret, username, and password. See [these instructions](https://github.com/reddit-archive/reddit/wiki/OAuth2-Quick-Start-Example#first-steps) for details.
 4. Create a `.env` file in the root directory of the repository with the following content:
